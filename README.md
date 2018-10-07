@@ -1,6 +1,6 @@
 # multihash
 
-An implementation of [multihash]([https://multiformats.io/multihash/), as seen in [IPFS](https://ipfs.io/).
+An implementation of [multihash](https://multiformats.io/multihash/), as seen in [IPFS](https://ipfs.io/).
 
 ## Installation
 
