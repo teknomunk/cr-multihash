@@ -1,0 +1,12 @@
+name: multihash
+version: 0.1.0
+
+authors:
+  - teknomunk <teknomunk@protonmail.com>
+
+crystal: 0.26.1
+dependencies:
+  varint:
+    github: teknomunk/cr-varint
+
+license: MIT
